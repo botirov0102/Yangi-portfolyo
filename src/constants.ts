@@ -70,7 +70,7 @@ export const SKILLS = [
 export const STATS = [
   { label: 'Tugallangan Loyihalar', value: 50, suffix: '+' },
   { label: 'Mamnun Mijozlar', value: 30, suffix: '+' },
-  { label: 'Yillik Tajriba', value: 3, suffix: '+' },
+  { label: 'Yillik Tajriba', value: 4, suffix: '+' },
 ];
 
 export const FAQS = [

@@ -11,7 +11,7 @@ export const PROJECTS = [
     id: 'mebel',
     name: 'Mebel dokon uchun real loyha',
     description: 'mebel mashhura dokoni uchun mahsus yasalgan web sayt ',
-    stack: ['React', 'Node.js', 'MongoDB', 'Compiler API'],
+    stack: ['React', 'Node.js', ],
     link: 'https://mebelmashhura.uz/',
     color: 'from-blue-600/40 to-cyan-400/40'
   },
